@@ -1,0 +1,13 @@
+.header-button {
+    width: 12rem;
+}
+
+@media (max-width: 992px) {
+    .header-button {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+        margin-top: 1rem;
+    }
+}
