@@ -39,27 +39,27 @@ tzdata==2021.5
 #### Create a Staff
 1. Admin login is made with the Login button on the navigation bar.
 2. Create Staff button is clicked and staff information is entered. After entering the information, click the Submit button.
-![Create Staff](/usage_images/create_staff.jpg)
+![Create Staff](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/create_staff.JPG)
 
 ### Examination of Existing Staff Records
 1. Admin login is made with the Login button on the navigation bar.
 2. Click the Show Staffs button on the navigation bar. In the window that opens, all employee records can be examined and deleted.
-![Show Staffs](/usage_images/show_staffs.jpg)
+![Show Staffs](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/show_staffs.JPG)
 
 ### Create a New Record
 1. In order to create a customer record, the employee must log in to the system.
 2. Click on the Create New Record button on the homepage. In the window that opens, information about the customer and the animal is entered and the Submit button is clicked.
 3. The Customer part is used to fetch the information of an existing customer. It has autocomplete feature.
-![Create New Record](/usage_images/create_record.jpg)
+![Create New Record](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/create_record.JPG)
 
 ### Examination of Existing Customer Records
 1. In order to create a customer record, the employee must log in to the system.
 2. Click on the Search Record button on the homepage. In the window that opens, an existing record can be searched by customer or animal name.
-![Search a Record](/usage_images/search_record1.jpg)
+![Search a Record](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/search_record1.JPG)
 3. The record whose details you want to see is selected. In the resulting table, the customer and the animal records of the customer are examined.
-![Search the Record](/usage_images/search_record2.jpg)
+![Search the Record](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/search_record2.JPG)
 4. If you want to update the record, click on the name of the record to be updated and make the desired changes in the window that opens.
-![Update the Record](/usage_images/update.jpg)
+![Update the Record](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/update.JPG)
 5. To delete the existing record, click the Delete button next to the record. Only employees with Admin authority can perform delete.
 
 ## Authors
