@@ -41,18 +41,18 @@ tzdata==2021.5
 2. Create Staff button is clicked and staff information is entered. After entering the information, click the Submit button.
 ![Create Staff](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/create_staff.JPG)
 
-### Examination of Existing Staff Records
+#### Examination of Existing Staff Records
 1. Admin login is made with the Login button on the navigation bar.
 2. Click the Show Staffs button on the navigation bar. In the window that opens, all employee records can be examined and deleted.
 ![Show Staffs](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/show_staffs.JPG)
 
-### Create a New Record
+#### Create a New Record
 1. In order to create a customer record, the employee must log in to the system.
 2. Click on the Create New Record button on the homepage. In the window that opens, information about the customer and the animal is entered and the Submit button is clicked.
 3. The Customer part is used to fetch the information of an existing customer. It has autocomplete feature.
 ![Create New Record](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/create_record.JPG)
 
-### Examination of Existing Customer Records
+#### Examination of Existing Customer Records
 1. In order to create a customer record, the employee must log in to the system.
 2. Click on the Search Record button on the homepage. In the window that opens, an existing record can be searched by customer or animal name.
 ![Search a Record](https://github.com/yildirimemr/animal_clinic/blob/main/usage_images/search_record1.JPG)
