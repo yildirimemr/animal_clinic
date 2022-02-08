@@ -63,4 +63,4 @@ tzdata==2021.5
 5. To delete the existing record, click the Delete button next to the record. Only employees with Admin authority can perform delete.
 
 ## Authors
-* **Emre Yıldırım** - [Emre Yıldırım](https://github.com/yildirimemr)
+* **Emre Yıldırım** - [GitHub](https://github.com/yildirimemr)
